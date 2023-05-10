@@ -1,7 +1,7 @@
 {
   "name": "typescript",
-  "homepage": ".",
-  "private": true,
+  "homepage": "https://Erla-B.github.io/M6G6_typescript/",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
